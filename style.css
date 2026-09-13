@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    font-weight: 400, 700;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    display: flex; 
+    justify-content: center;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 80%;
+    height: auto;
+}
+
+QR code {
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 80%;
+    height: auto;
+}
+
+em {
+    font-style: italic;
+    color: hsl(218, 44%, 22%);
+}
